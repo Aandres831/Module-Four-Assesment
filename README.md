@@ -10,7 +10,7 @@ This system allows ExpertSoft to manage an electrical company, users and transac
 
 1. **Clone the repository** 
 ```
-bash git clone <url_del_repository> cd <PROJECT NAME>
+bash git clone (https://github.com/Aandres831/Module-Four-Assesment.git) 
 ```
 
 
